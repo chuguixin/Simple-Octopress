@@ -23,6 +23,8 @@ Update
 Config
 ------
 Config your blog in your `_config.yml`
+    
+    use your own favicon.png in ./source
 
     #if you want to use [uyan](http://www.uyan.cc/) not Disqus , set this item true && tell me your uyan_id
     uyan_comment: true
