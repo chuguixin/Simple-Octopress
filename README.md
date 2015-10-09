@@ -7,14 +7,14 @@ Preview [here](http://jser.it).
 Install
 -------
     $ cd octopress
-    $ git clone git://github.com/chuguixin/simple.git .themes/simple
+    $ git clone git://github.com/chuguixin/Simple-Octopress.git .themes/simple
     $ rake install['simple']
     $ rake generate
 
 
 Update
 ------
-    $ cd octopress/.themes/whitespace
+    $ cd octopress/.themes/simple
     $ git pull
     $ rake install['simple']
     $ rake generate
